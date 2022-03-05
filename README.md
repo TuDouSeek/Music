@@ -2,7 +2,7 @@
 
 运行结果
 
-![](C:\Users\Administrator\Pictures\专升本\计算机\R进制换十进制.png)
+![](https://img0.baidu.com/it/u=1721391133,702358773&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=625)
 
 ## Project setup
 ```
