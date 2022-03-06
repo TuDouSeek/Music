@@ -2,7 +2,7 @@
 
 # 运行结果
 
-![](src/assets/logo.png)
+![](/src/assets/logo.png)
 
 ## Project setup
 ```
